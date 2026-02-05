@@ -1,0 +1,5 @@
+aiogram==3.13.1       
+python-dotenv==1.0.1     
+matplotlib==3.9.2
+python-multipart==0.0.6
+fastapi==0.109.0
